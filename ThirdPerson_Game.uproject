@@ -1,33 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.0",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "ThirdPerson_Game",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "ModularGameplay",
-			"Enabled": true
-		},
-		{
-			"Name": "GameFeatures",
-			"Enabled": true
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a38b749c54cdabc1a62e0ca70f106e58cc973e9ba038b16a697175df6d94626b
+size 516
